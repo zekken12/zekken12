@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zekken12
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML, CSS, PHP, MySQL, Java, JS, C
+- 🌱 I’m currently learning HTML, CSS, PHP, MySQL, Java, JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : linktr.ee/Julien_Supertimelapse
 
